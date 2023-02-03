@@ -1,0 +1,2 @@
+# IOT-based-combined-remote-health-monitoring-home-automation
+Health hazard is not an age-dependent factor in recent era. Under these scenarios Sensors acquire the data of various parameters regarding patients health and Internet of Things stores that data and displays through website which provide access to remote monitoring. Sensor reduces human error and size of system reduces occupied space of the room
